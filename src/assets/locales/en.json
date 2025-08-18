@@ -90,7 +90,7 @@
   "footer": {
     "legal": {
       "disclaimer": "Disclaimer ◝(ᵔᵕᵔ)◜",
-      "disclaimerText": "Please note: Pirxcy's Cinema does not host any files itself but instead only display's content from 3rd party providers. Legal issues should be taken up with them."
+      "disclaimerText": "Please note: Pirxcy's Cinema does not host any files. We use external providers, any legal problems fuck off over to them i did nothing wrong."
     },
     "links": {
       "discord": "Discord",
@@ -98,7 +98,7 @@
       "github": "GitHub",
       "twitter": "Twitter"
     },
-    "tagline": "Watch your favorite shows and movies for free with no ads ever! (っ'ヮ'c)"
+    "tagline": "Watch your favorite shows and movies for free with no ads ever! ❤️"
   },
   "global": {
     "name": "Pirxcy's Cinema",
@@ -131,9 +131,9 @@
       "loading": "Loading, this shit can take a while...",
       "noResults": "Shit, we found fuck all :(",
       "placeholder": {
-        "default": "What do you want to watch?",
+        "default": "Hmmm, what today? 🤔",
         "extra": [
-          "What are you in the mood for?",
+          "We fucked over MBP so hard 😭",
           "Should we delete your browser history?",
           "What do you want to stream?",
           "Pirxcy's Cinema is the best site ever!",
